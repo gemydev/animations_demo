@@ -1,0 +1,9 @@
+Types of Built in implicit Animation :
+  * AnimatedContainer
+  * AnimatedOpacity
+  * AnimatedAlign
+  * AnimatedPositioned
+  * AnimatedDefaultTextStyle
+  * ...
+  * ..
+  * .

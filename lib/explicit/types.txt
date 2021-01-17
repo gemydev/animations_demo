@@ -1,0 +1,14 @@
+Types of Built in Explicit Animation :
+  * SizeTransition
+  * FadeTransition
+  * AlignTransition
+  * ScaleTransition
+  * SlideTransition
+  * RotationTransition
+  * PositionedTransition
+  * DecoratedBoxTransition
+  * DefaultTextStyleTransition
+  * RelativePositionedTransition
+  * ...
+  * ..
+  * .
