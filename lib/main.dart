@@ -1,9 +1,5 @@
-import 'package:animations_demo/explicit/customExplicitAnimation.dart';
 import 'package:flutter/material.dart';
-
-import 'animation_example.dart';
-import 'explicit/animatedWidget.dart';
-import 'hero_animation.dart';
+import 'externalPackages/slidePopupDialog.dart';
 
 void main() {
   runApp(MyApp());
@@ -15,7 +11,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Animations Demo',
-      home: AnimationExample(),
+      home: SlidePopupDialogExample(),
     );
   }
 }
